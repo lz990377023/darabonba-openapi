@@ -18,7 +18,7 @@ let package = Package(
             .package(url: "https://github.com/aliyun/tea-swift.git", from: "1.0.2"),
             .package(url: "https://github.com/alibabacloud-sdk-swift/tea-utils", from: "1.0.6"),
             .package(url: "https://github.com/aliyun/credentials-swift", from: "1.0.1"),
-            .package(url: "https://github.com/alibabacloud-sdk-swift/openapi-util", from: "1.0.1"),
+            .package(url: "https://github.com/lz990377023/openapi-util.git", from: "1.0.2"),
             .package(url: "https://github.com/alibabacloud-sdk-swift/alibabacloud-gateway-spi", from: "0.0.1"),
             .package(url: "https://github.com/alibabacloud-sdk-swift/tea-xml", from: "1.0.1"),
         ],
